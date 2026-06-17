@@ -7,7 +7,7 @@ This is a simple and responsive pancake recipe website built using HTML, CSS, an
 ---
 
 🌐 Live Demo
-
+https://dayogeorge69-collab.github.io/Pancake-recipe-website-/
 
 🛠️ Built With
 
