@@ -8,11 +8,6 @@ This is a simple and responsive pancake recipe website built using HTML, CSS, an
 
 🌐 Live Demo
 
-Replace this with your GitHub Pages link after publishing:
-
-https://yourusername.github.io/pancake-recipe-website/
-
----
 
 🛠️ Built With
 
@@ -38,14 +33,6 @@ https://yourusername.github.io/pancake-recipe-website/
 - How to style a webpage using CSS
 - How to add basic JavaScript interactivity
 - How to upload and host a project using GitHub Pages
-
----
-
-📁 How to Use
-
-1. Clone or download this repository
-2. Open "index.html" in your browser
-3. Or visit the live link above
 
 ---
 
